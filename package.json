@@ -8,7 +8,7 @@
     "zone.js": "0.8.26",
     "@angular/cdk": "6.4.2",
     "jasmine-core": "2.99.1",
-    "@angular/core": "6.1.1",
+    "@angular/core": "10.2.5",
     "@angular/http": "6.1.1",
     "@angular/forms": "6.1.1",
     "@angular/common": "6.1.1",
